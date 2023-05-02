@@ -1,4 +1,4 @@
-# Ingeniería de Software .
+# Ingeniería de Software
 
 Programas y aplicaciones realizadas en clase de Ingeniería de software en la Facultad de Estudios Superiores Aragón.
 
