@@ -9,6 +9,8 @@ Programas y aplicaciones realizadas en clase de Ingeniería de software en la Fa
 * [Docker](https://www.docker.com/) 🐳
 * [Java](https://www.java.com/es/) :hotsprings:
 * HTML5 :skull:
+* JavaScript :brain:
+
 ## Autores ✒️
 
 * **Josh Trejo** - *Programación* - [Josh Trejo](https://github.com/jorgejoshuatt)
